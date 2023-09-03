@@ -52,17 +52,8 @@ Follow these steps to use the Random Password Generator:
     ```
     
     This command will generate a 16-character password that includes uppercase letters, digits, and special characters.
-    
-4. **Generated Password**:
-    
-    The generated password will be displayed in the console.
-    
+        
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
-
-## Author
-
-- Your Name
-- GitHub: [itzreqle](https://github.com/itzreqle)
